@@ -13,7 +13,7 @@ from datetime import datetime
 load_dotenv()
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-KEY_PHRASE = "bo_white is online"
+KEY_PHRASE = "is online"
 DELETE_DELAY = 18000  # секунд
 
 # Настройка логгирования
